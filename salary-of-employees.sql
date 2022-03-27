@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true
+--https://www.hackerrank.com/challenges/salary-of-employees/problem?isFullScreen=true
 
 select name
 from Employee
