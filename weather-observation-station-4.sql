@@ -1,4 +1,4 @@
-link: https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true
+--link: https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true
 
 DECLARE @Total INT;
 DECLARE @TotalDistinct INT; 
