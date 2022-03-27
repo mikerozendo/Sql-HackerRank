@@ -1,6 +1,6 @@
-link:https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true
+--link:https://www.hackerrank.com/challenges/more-than-75-marks/problem?isFullScreen=true
 
-#TODO ************8
+--#TODO ************8
 
 SELECT STUDENTS.Name as Name, STUDENTS.ID as Id INTO #t_names 
 FROM STUDENTS WHERE Marks > 75 
