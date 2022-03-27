@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true
+--https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true
 
 select 
 occupation as 'occupation', 
