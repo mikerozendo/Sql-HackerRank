@@ -1,4 +1,4 @@
---https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+--https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true
 
 select 
 cast(long_w as decimal (36,4)) 
